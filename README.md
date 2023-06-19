@@ -21,7 +21,7 @@
 #### Here is my study projects:
 ##### Lessons of:
 1. [Java SE, SQL & JDBC, GC and OOD](https://github.com/Dima-Stepanov/job4j_design)
-2. [Multithreading in Java](https://github.com/Dima-Stepanov/job4j_threads/tree/master/src/main/java/ru/job4j)
+2. [Multithreading in Java](https://github.com/Dima-Stepanov/job4j_threads)
 ##### Projects:
 1. [Rest API for URL SHORTCUT using Spring](https://github.com/Dima-Stepanov/job4j_url_shortcut)
 2. [Job grabber(HTML Parser using JSOP](https://github.com/Dima-Stepanov/job4j_grabber)
