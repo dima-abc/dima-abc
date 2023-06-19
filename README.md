@@ -27,7 +27,7 @@
 2. [Job grabber(HTML Parser using JSOP)](https://github.com/Dima-Stepanov/job4j_grabber)
 3. [TodoList using Spring & Hibernate & Thymeleaf](https://github.com/Dima-Stepanov/job4j_todo)
 4. [Car accident registration app using Spring & Thymeleaf](https://github.com/Dima-Stepanov/jpb4j_accidents)
-5. [Cinema market using Spring & Sql2o & Thymeleaf](https://github.com/Dima-Stepanov/job4j_cinema/blob/master/pom.xml)
+5. [Cinema market using Spring & Sql2o & Thymeleaf](https://github.com/Dima-Stepanov/job4j_cinema)
 6. [Car market using Spring & Hibernate & Thymeleaf](https://github.com/Dima-Stepanov/job4j_cars)
 7. Hungry Wolf mikroservisy app Spring Rest Kafka
    >[Dish servicy](https://github.com/Dima-Stepanov/job4j_dish)
