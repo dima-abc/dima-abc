@@ -1,9 +1,7 @@
-### Hi! 👋 My name is Dmitry. Welcome! :v:
+### Greetings :v:
 
 #### About me
-* I am java developer :coffee:
-* I learn Java at [Job4j](https://job4j.ru/) :coffee:
-* My Java expirience is 2 years :watch:
+* I am java developer :coffee: :watch:
 --------------------------------------------------------
 ***Core technologies:***
 ><a href="#"><img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-007396.svg?logo=java&logoColor=white" width="55"></a>
