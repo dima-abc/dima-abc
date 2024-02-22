@@ -44,9 +44,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Stats
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/Dima-Stepanov)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/Dima-Stepanov)](https://badges.pufler.dev)
 
 ![🔥 GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dima-Stepanov&theme=monokai-metallian")
 
-![📈 Github stats](https://github-readme-stats.vercel.app/api?username=Dima-Stepanov&hide=stars,prs,issues,contribs)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dima-Stepanov&layout=compact)](https://github.com/Dima-Stepanov//github-readme-stats)
+![github stats](https://github-readme-stats.vercel.app/api?username=Dima-Stepanov&show_icons=true)
