@@ -45,9 +45,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Stats
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/Dima-Stepanov)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/Dima-Stepanov)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/dima-abc)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/dima-abc)](https://badges.pufler.dev)
 
-![🔥 GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dima-Stepanov&theme=monokai-metallian")
+![🔥 GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dima-abc&theme=monokai-metallian")
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Dima-Stepanov&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=dima-abc&show_icons=true)
